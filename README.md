@@ -1,4 +1,3 @@
-Certainly! Here's a structure you can follow to create a clear and informative README for your Vision Assist project:
 
 ---
 

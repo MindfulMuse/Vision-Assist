@@ -1,6 +1,6 @@
 Vision Assist is an advanced assistive system designed to empower visually impaired individuals by enhancing their understanding of their surroundings. The system incorporates state-of-the-art technologies for object detection, distance measurement, and auditory feedback, offering a comprehensive and user-friendly solution.
 
-Features
+*Features*
 
 Object Detection: Identifies objects in real-time using a camera setup.
 

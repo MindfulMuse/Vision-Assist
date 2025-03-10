@@ -9,9 +9,7 @@ Vision Assist is an assistive system designed to empower visually impaired indiv
 
 - **Object Detection**: Identifies objects in the surroundings.
 - **Distance and Direction Estimation**: Calculates the distance and direction of objects using an ultrasonic sensor and servo motor.
-- **Face Recognition**: Recognizes known individuals, trained on the Ex-Darkset for better performance in low-light conditions.
 - **Auditory Feedback**: Provides real-time audio notifications about detected objects and their locations.
-- **Low-Light Optimization**: Performs effectively in low-light environments.
 
 ## Future Enhancements
 
